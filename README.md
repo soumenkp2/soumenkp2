@@ -77,11 +77,12 @@ I'm Soumen Paul, a passionate Android Developer and Currently an Android Intern 
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 
-
 ## 🚧 Let's Connect!
 
-- 📫 Reach out to me via [email](mailto:soumenkp2@gmail.com) or [mobile](tel:+918077570708).
-- 🌐 Connect with me on [LinkedIn](your-linkedin-profile).
-- 🐦 Follow me on [Twitter](your-twitter-profile).
+[![Email](https://img.shields.io/badge/Email-soumenkp2%40gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soumenkp2@gmail.com)
+[![Mobile](https://img.shields.io/badge/Mobile-%2B91%208077570708-4285F4?style=for-the-badge&logo=android&logoColor=white)](tel:+918077570708)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/soumen-paul-0b3915204/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/msoumenpaul2)
+
 
 Happy coding! 🚀
