@@ -15,7 +15,7 @@ I'm Soumen Paul, a passionate Android Developer and Currently an Android Intern 
 
 ## 📚 Work Experiences
 
-### Android Intern - Jar
+### Android Engineer - Jar
 
 <img src="https://github.com/soumenkp2/images_readme_profile/blob/main/jar.png" alt="Performance Pod Logo" width="300" height="300">
 
